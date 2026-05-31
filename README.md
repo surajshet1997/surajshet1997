@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Suraj Shet
 
-<!--
-**surajshet1997/surajshet1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business operations professional with 6+ years of experience in supply chain and customer operations.
+Transitioning into Data Analytics through hands-on projects in SQL, Power BI, and Python.
 
-Here are some ideas to get you started:
+Skills
+SQL
+Power BI
+Python
+Excel
+Supply Chain Analytics
+Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
